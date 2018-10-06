@@ -78,4 +78,7 @@ Werving en selectie van vrijwilligers instroom (via de GGDI pijler *EDUCATION* e
 * Deelnemers en vergoedingen
   * Alle deelnemers worden aangestuurd en begeleid door een senior staflid die hiervoor in aanmerking komt voor een inzet vergoeding voor het vervullen van deze functie.
   * Deelnemers kunnen aanspraak doen op een onkostenvergoeding voor bv reiskosten, internetkosten e.d.
+  
+ ### Details kosten
+ De details van de kosten van het GCERT staan in deze online [spreadsheet](https://docs.google.com/spreadsheets/d/1S4qxDSgbQdJJyzTpRyC61RQTy0GI-Oy4r8SOnD6qfds/edit?usp=sharing).
 
