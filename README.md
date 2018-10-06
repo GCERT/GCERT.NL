@@ -1,4 +1,4 @@
-<a href="/"><img src="https://gcert.nl/over/GCERT_logo_klein.png.png" alt="GCERT" border="0" /></a>
+<a href="/"><img src="https://gcert.nl/over/GCERT_logo_klein.png" width="20%" height="20%" alt="GCERT" border="0" /></a>
 
 ## Welkom op GCERT.nl
 
