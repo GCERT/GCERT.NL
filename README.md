@@ -1,3 +1,5 @@
+<a href="/"><img src="https://gcert.nl/over/GCERT_logo_klein.png.png" alt="GCERT" border="0" /></a>
+
 ## Welkom op GCERT.nl
 
 Op het moment zijn we druk bezig met de [opbouw](/over/) van GCERT[NL]. 
