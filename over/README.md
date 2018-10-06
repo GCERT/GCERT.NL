@@ -80,5 +80,5 @@ Werving en selectie van vrijwilligers instroom (via de GGDI pijler *EDUCATION* e
   * Deelnemers kunnen aanspraak doen op een onkostenvergoeding voor bv reiskosten, internetkosten e.d.
   
  ### Details kosten
- De details van de kosten van het GCERT staan in deze online [spreadsheet](https://docs.google.com/spreadsheets/d/1S4qxDSgbQdJJyzTpRyC61RQTy0GI-Oy4r8SOnD6qfds/edit?usp=sharing).
+ De details van de kosten van het GCERT staan in deze [spreadsheet](/publicaties/GCERT.xlsx).
 
