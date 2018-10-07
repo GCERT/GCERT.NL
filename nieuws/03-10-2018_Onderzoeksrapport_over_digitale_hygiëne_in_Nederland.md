@@ -2,7 +2,9 @@
 
 [Nieuws](https://GCERT.NL/nieuws/)|Actueel
 
-### Onderzoeksrapport over digitale hygiëne in Nederland 03-10-2018 via de [NCSC](https://www.ncsc.nl/actueel/nieuwsberichten/onderzoeksrapport-digitale-hygiene-nederland.html)
+### Onderzoeksrapport over digitale hygiëne in Nederland
+03-10-2018 via [NCSC](https://www.ncsc.nl/actueel/nieuwsberichten/onderzoeksrapport-digitale-hygiene-nederland.html)
+
 De GDI.Foundation, een non-profit organisatie met als missie om een vrij en open internet te bewaken, heeft onderzoek gedaan naar het Nederlandse digitale landschap. Met de resultaten uit dit onderzoek hopen wij de digitale belangen van Nederland beter te kunnen inschatten.
 
 Het NCSC heeft opdracht gegeven aan GDI.Foundation om big data uit openbare bronnen te analyseren. Het NCSC gebruikt de resultaten van dit onderzoek om de impact van cyberincidenten beter in te schatten en haar adviezen meer toe te spitsen.
