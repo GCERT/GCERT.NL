@@ -1,0 +1,8 @@
+* [Home](/)
+* [Advisories](advisories.md "Our advisories and guides")
+  * [Our latest advisories](advisories.md "Our recent advisories")
+  * [Our guides](advisories.md "These are our guides")
+* [Reports](reports.md "Reports")
+* [Threats](threats.md "Threats")
+* [About](about.md "About us")
+* [Contact](contact.md "This is how you can contact us")
