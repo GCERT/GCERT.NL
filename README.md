@@ -1,6 +1,6 @@
 <a href="/"><img src="https://gcert.nl/over/GCERT_logo_klein.png" width="20%" height="20%" alt="GCERT" border="0" /></a>
 
-!> Op het moment zijn we druk bezig met de [opbouw](/over/) van GCERT[NL]. Als je het leuk vind om te zien waar we me bezig zijn of als wilt bijdragen kun je dat [hier](https://github.com/GDI-foundation/GDI.foundation/projects/4).
+!> Op het moment zijn we druk bezig met de [opbouw](/over/ons/) van GCERT[NL]. Als je het leuk vind om te zien waar we me bezig zijn of als wilt bijdragen kun je dat [hier](https://github.com/GDI-foundation/GDI.foundation/projects/4).
 
 
 ### Status
