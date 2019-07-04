@@ -12,9 +12,9 @@ Met het GCERT.NL is het mogelijk om het aantal digitale brandhaarden daadwerkeli
 - Pro actief informeren van belanghebbende / betrokkene over de gevonden kwetsbaarheid incl. praktisch (technisch) advies hoe deze op te lossen (gratis)
 - Geen onderscheid te maken in bijv.  grote van organisatie, branche of persoon
 - Monitoren van levenscyclus gedetecteerde incident / opvolging van advies.
- 
+
 De stichting waarborgt de onafhankelijkheid en onpartijdigheid van de werkzaamheden van de GCERT.NL. Er is in deze geen afhankelijkheid tussen financiën, opdrachtverstrekker en de scope van de werkzaamheden GCERT.NL
- 
+
 ## Deliverables & Effect
 Doelstelling is om 1 januari 2019 de volgende deliverables en stappen gemaakt te hebben in het verbeteren van de digitale hygiëne van Nederland:
 * Technische omgeving voor GCERT.NL activiteiten:
@@ -32,12 +32,12 @@ Doelstelling is om 1 januari 2019 de volgende deliverables en stappen gemaakt te
 De GDI.foundation is de enige non-profit organisatie in de wereld die op zo’n grote schaal kwetsbaarheden detecteert, meld bij de eigenaar en in de gaten houd of deze daadwerkelijk opgelost worden.
 De afgelopen 3 jaar heeft de GDI.Foundation en haar wereldwijde vrijwilligers al ruime ervaring opgedaan met de bovenvermelde werkzaamheden. Een groot aantal kwetsbaarheden en verder misbruik van de kwetsbaarheid hebben we wereldwijd weten te reduceren. Maar we weten ook op basis van de opgedane ervaringen wat mis kan gaan en wat voor verbetering vatbaar is (lessons learned).
  GDI.Foundation heeft door haar werk ook reeds de nodige samenwerkingsverbanden & vertrouwen opgebouwd bij meerdere partijen in de keten (overheden, NCSC, ISP’s, security community, SIDN, etc.). Het GCERT.NL maakt gebruik van dit netwerk en zal deze verder uitbouwen door de samenwerking te zoeken met op MKB gerichte instellingen als Nederland.ICT, Cyber Veilig Nederland en e.a.
- 
+
 ## Continuïteit en vervolgstappen
-Voor de inrichting van het GCERT zal er gekeken worden naar de CERT toolbox van NCSC en andere open CERT publicaties. 
+Voor de inrichting van het GCERT zal er gekeken worden naar de CERT toolbox van NCSC en andere open CERT publicaties.
 Het GCERT maakt onderdeel uit van de GDI.foundation die beschreven is deze reeds gepubliceerde [OUTLOOK2019](https://github.com/GDI-foundation/GDI.foundation/blob/master/about/outlook2019.md).
-De werkzaamheden van het GCERT maken een belangrijk onderdeel uit van het gehele zorggebied van de GDI.foundation. 
-Onze hoofdmissie is oplossen van kwetsbaarheden. Om deze doelstelling te kunnen halen is *educatie* en *onderzoek* van essentieel belang om de kwaliteit van het GCERT te kunnen waarborgen. 
+De werkzaamheden van het GCERT maken een belangrijk onderdeel uit van het gehele zorggebied van de GDI.foundation.
+Onze hoofdmissie is oplossen van kwetsbaarheden. Om deze doelstelling te kunnen halen is *educatie* en *onderzoek* van essentieel belang om de kwaliteit van het GCERT te kunnen waarborgen.
 Van uit *PROJECTS* zullen o.a. initiatieven gestart worden om kwetsbaarheden te voorkomen of vroegtijdig te signaleren.
 
 ## Investeringskosten 2018
@@ -78,7 +78,6 @@ Werving en selectie van vrijwilligers instroom (via de GGDI pijler *EDUCATION* e
 * Deelnemers en vergoedingen
   * Alle deelnemers worden aangestuurd en begeleid door een senior staflid die hiervoor in aanmerking komt voor een inzet vergoeding voor het vervullen van deze functie.
   * Deelnemers kunnen aanspraak doen op een onkostenvergoeding voor bv reiskosten, internetkosten e.d.
-  
+
  ### Details kosten
  De details van de kosten van het GCERT staan in deze [spreadsheet](/publicaties/GCERT.xlsx).
-
