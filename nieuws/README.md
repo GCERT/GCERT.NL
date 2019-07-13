@@ -5,6 +5,8 @@
 
 > Geen nieuwsberichten
 
+
+<!--
 <div id="inhoud">
 <div class="wrapper">
 <div id="content" class="article"></div>
@@ -24,10 +26,18 @@
             </p>
             <p>Het beveiligingslek CVE-2019-0708 bekend als BlueKeep werd voor het eerst gemeld in mei.Deze stelt aanvallers in staat verbinding te maken met Remote Desktop Protocol-services (RDP) en opdrachten uit te voeren zonder inloggegevens om zo gegevens te kunnen stelen of wijzigen, malware kunnen installeren en andere kwaadwillige activiteiten kunnen uitvoeren op Windows systemen. Inmiddels is er Proof-of-concept-code ontwikkeld, waardoor de kans op uitbuiting van de kwetsbaarheid groter wordt.</p>
             </div>
-      
+ 
     </div>
 
 </section>
+-->
+
+> [BlueKeep kwetsbaarheid]()
+![BlueKeep kwetsbaarheid voor Windows systemen](https://raw.githubusercontent.com/GCERT/GCERT.NL/master/img/windows-bluekeep-cve-2019-07-08.png)
+
+
+<p>Het beveiligingslek CVE-2019-0708 bekend als BlueKeep werd voor het eerst gemeld in mei.Deze stelt aanvallers in staat verbinding te maken met Remote Desktop Protocol-services (RDP) en opdrachten uit te voeren zonder inloggegevens om zo gegevens te kunnen stelen of wijzigen, malware kunnen installeren en andere kwaadwillige activiteiten kunnen uitvoeren op Windows systemen. Inmiddels is er Proof-of-concept-code ontwikkeld, waardoor de kans op uitbuiting van de kwetsbaarheid groter wordt.</p>
+
 
 
 
