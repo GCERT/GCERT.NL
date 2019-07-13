@@ -5,9 +5,6 @@
 
 > Geen nieuwsberichten
 
-
-<!--
-
 <div id="inhoud">
 <div class="wrapper">
 <div id="content" class="article"></div>
@@ -17,67 +14,22 @@
 
 <div class="brick">
 <a href="#">
-<h3>Titel 1</h3>
+<h3>BlueKeep kwetsbaarheid</h3>
         <div class="brick-image">
-                <img src="https://trello-attachments.s3.amazonaws.com/5cf7aba8720946469d9533ec/480x270/a81efc0a373c4fb7ee59ed911c5d359c/giphy.gif" alt=""/>
+                <img src="https://raw.githubusercontent.com/GCERT/GCERT.NL/master/img/windows-bluekeep-cve-2019-07-08.png" alt="BlueKeep kwetsbaarheid voor Windows systemen" style="height: 200px;"/>
                 </div>
             <div class="brick-text">
             <p>
-              <span class="publDate">00-00-2019 | 00:00</span>
+              <span class="publDate">14-05-2019 | 23:04</span>
             </p>
-            <p>Lorem ipsum dolor amit ...</p>
+            <p>Het beveiligingslek CVE-2019-0708 bekend als BlueKeep werd voor het eerst gemeld in mei.Deze stelt aanvallers in staat verbinding te maken met Remote Desktop Protocol-services (RDP) en opdrachten uit te voeren zonder inloggegevens om zo gegevens te kunnen stelen of wijzigen, malware kunnen installeren en andere kwaadwillige activiteiten kunnen uitvoeren op Windows systemen. Inmiddels is er Proof-of-concept-code ontwikkeld, waardoor de kans op uitbuiting van de kwetsbaarheid groter wordt.</p>
             </div>
       </a>
     </div>
 
-<div class="brick">
-  <a href="#">
-    <h3>Titel 2</h3>
-    <div class="brick-image">
-            <img src="https://trello-attachments.s3.amazonaws.com/5cf7aba8720946469d9533ec/480x270/a81efc0a373c4fb7ee59ed911c5d359c/giphy.gif" alt=""/>
-            </div>
-        <div class="brick-text">
-        <p>
-          <span class="publDate">00-00-2019 | 00:00</span>
-        </p>
-        <p>Lorem ipsum dolor amit ...</p>
-        </div>
-  </a>
-</div>
-
-<div class="brick">
-  <a href="#">
-    <h3>Titel 3</h3>
-    <div class="brick-image">
-            <img src="https://trello-attachments.s3.amazonaws.com/5cf7aba8720946469d9533ec/480x270/a81efc0a373c4fb7ee59ed911c5d359c/giphy.gif" alt=""/>
-            </div>
-        <div class="brick-text">
-        <p>
-          <span class="publDate">00-00-2019 | 00:00</span>
-        </p>
-        <p>Lorem ipsum dolor amit ...</p>
-        </div>
-  </a>
-</div>
-
-<div class="brick">
-  <a href="#">
-    <h3>Titel 4</h3>
-    <div class="brick-image">
-            <img src="https://trello-attachments.s3.amazonaws.com/5cf7aba8720946469d9533ec/480x270/a81efc0a373c4fb7ee59ed911c5d359c/giphy.gif" alt=""/>
-            </div>
-        <div class="brick-text">
-        <p>
-          <span class="publDate">00-00-2019 | 00:00</span>
-        </p>
-        <p>Lorem ipsum dolor amit ...</p>
-        </div>
-  </a>
-</div>
 </section>
 
 
--->
 
 
 
